@@ -1,0 +1,1 @@
+conda activate dl && jupyter lab

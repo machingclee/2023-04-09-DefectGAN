@@ -1,0 +1,9 @@
+*.pt
+*.pth
+*.h5
+**/*/result01/defect-gan.ipynb
+**/*/result02-successfully-generated-sth/defect-gan.ipynb
+**/*/result03/defect-gan.ipynb
+**/*/result04-224-ver-01/defect-gan-224-ver.ipynb
+**/*/result05-224-ver-DCT-double-01/defect-gan-224-ver-DCT.ipynb
+**/*/result06-224-ver-DCT/defect-gan-224-ver-DCT.ipynb
